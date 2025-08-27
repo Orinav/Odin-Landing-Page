@@ -132,3 +132,53 @@ body
     color: #1F2937;
     text-align: center;
 }
+
+.fourth-section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.blue-container
+{
+    color: white;
+    display: flex;
+    height: 45%;
+    width: 75%;
+    background-color: #3882F6;
+}
+
+#h4
+{
+    font-size: 24px;
+}
+
+
+.fourth-left
+{
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    margin-left: 100px;
+    justify-content: center;
+}
+
+.fourth-right
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 200px;
+}
+
+.fourth-button
+{
+    background-color: #3882F6;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
